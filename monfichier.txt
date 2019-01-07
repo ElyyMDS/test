@@ -86,3 +86,11 @@ probleme regler !
 
 
 Nous sommes dans la branche login
+<<<<<<< HEAD
+=======
+
+
+
+
+lalala test
+>>>>>>> login
