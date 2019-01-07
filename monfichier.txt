@@ -70,5 +70,13 @@ BONJOUR ELIOTT JESPERE QUE JE VAIS GAGNER CE COMBAT
 dsqdqsd
 
 
+<<<<<<< HEAD
 
 LALALA
+=======
+MODIF BRANCHE 
+
+2
+
+probleme regler !
+>>>>>>> login
