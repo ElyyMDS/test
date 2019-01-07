@@ -61,14 +61,29 @@ go octogones sans regles a main nu
 
 fin de la nouvelle fonctionnalité
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 26a831612bd838098eafa139326d1dbf3e781022
 Alors bonsoir, j'aime le sang
 j'aime les règles
 LE SANG DE TES MORTS LE JO
 j'aime le yogourt.
 
 BONJOUR ELIOTT JESPERE QUE JE VAIS GAGNER CE COMBAT
+<<<<<<< HEAD
 dsqdqsd
 
 je comprend rien
 
 j'ajoute un truc
+=======
+
+dsqdqsd
+
+LALALA
+MODIF BRANCHE 
+2
+probleme regler !
+
+>>>>>>> 26a831612bd838098eafa139326d1dbf3e781022
